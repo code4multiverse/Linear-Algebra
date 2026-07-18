@@ -76,8 +76,7 @@ $B=[-1+2j,\; 2+2j,\; 3]$。
 
 已知矩陣  
 $$
-C=\begin{pmatrix}1+j & 2\\ 3-j & 1+2j\end{pmatrix},\quad
-\mathbf{v}=\begin{pmatrix}1+j\\ 2-j\end{pmatrix}.
+C=\begin{pmatrix}1+j & 2 \\ 3-j & 1+2j\end{pmatrix},\quad \mathbf{v}=\begin{pmatrix}1+j \\ 2-j\end{pmatrix}
 $$
 
 38. 計算 $\det(C)$
