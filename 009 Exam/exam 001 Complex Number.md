@@ -73,9 +73,16 @@ $B=[-1+2j,\; 2+2j,\; 3]$。
 35. 計算 $\overline{A}$（各元素共軛）
 36. 計算 $\displaystyle\sum_k A_k\,\overline{B_k}$
 37. 計算 $A-B$（元素對應）
-
+  
 已知矩陣  
-$C=\begin{pmatrix}1+j & 2 \\ 3-j & 1+2j\end{pmatrix},\quad \mathbf{v}=\begin{pmatrix}1+j \\ 2-j\end{pmatrix}$
+$$
+C = \begin{bmatrix}
+1 + j & 2 \\
+3 - j & 1 + 2j
+\end{bmatrix}
+$$
+
+v = [ [1 + j], [2 - j] ]
 
 38. 計算 $\det(C)$
 39. 計算 $C\mathbf{v}$
@@ -147,7 +154,7 @@ $C=\begin{pmatrix}1+j & 2 \\ 3-j & 1+2j\end{pmatrix},\quad \mathbf{v}=\begin{pma
 | 36 | $-5-12j$ |
 | 37 | $[2,\; 1-6j,\; -5+2j]$ |
 | 38 | $-7+5j$ |
-| 39 | $$\begin{pmatrix} 4 \\\ 8+5j \end{pmatrix}$$ |
+| 39 | (4, 8+5j) |
 | 40 | $5$ |
 | 41 | $25$ |
 | 42 | $\dfrac{1}{2}\ln 2 + j\dfrac{\pi}{4}\approx 0.3466+0.7854j$ |
