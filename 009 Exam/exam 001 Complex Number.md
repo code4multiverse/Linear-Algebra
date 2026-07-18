@@ -147,7 +147,7 @@ $C=\begin{pmatrix}1+j & 2 \\ 3-j & 1+2j\end{pmatrix},\quad \mathbf{v}=\begin{pma
 | 36 | $-5-12j$ |
 | 37 | $[2,\; 1-6j,\; -5+2j]$ |
 | 38 | $-7+5j$ |
-| 39 | $\begin{pmatrix} 4 \\ 8+5j \end{pmatrix}$ |
+| 39 | $$\begin{pmatrix} 4 \\ 8+5j \end{pmatrix}$$ |
 | 40 | $5$ |
 | 41 | $25$ |
 | 42 | $\dfrac{1}{2}\ln 2 + j\dfrac{\pi}{4}\approx 0.3466+0.7854j$ |
